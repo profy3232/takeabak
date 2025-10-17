@@ -1,7 +1,4 @@
 <h1 align="center">GoPix</h1>
-<p align="center">
-  <img src="https://socialify.git.ci/MostafaSensei106/GoPix/image?custom_language=Go&font=KoHo&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F138288138%3Fv%3D4&name=1&owner=1&pattern=Floating+Cogs&theme=Light" alt="GoPix Banner">
-</p>
 
 <p align="center">
   <strong>A high-performance, feature-rich image conversion CLI tool built in Go.</strong><br>
